@@ -1,0 +1,9 @@
+File of the CCD camera configuration to fast acquisitions
+-----------------------------------------------------------
+
+This file provides the camera configuration
+to aquisitions with fast speed.
+
+VSHIFT SPEED = 0.6
+
+READOUT RATE = 1 MHz at 16 bit

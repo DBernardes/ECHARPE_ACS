@@ -1,0 +1,40 @@
+File of the CCD camera acquisition setup
+-----------------------------------------
+
+Acquisition Mode: A
+
+Trigger: B
+
+Read Mode: C
+
+Exposure Time: D
+
+VShift Speed: E
+
+Readout Rate: F
+
+Preamp: G
+
+Shutter Mode:  H
+
+Shutter TTL: I
+
+Time to open shutter: J
+
+Time to close shutter: K
+
+Cooler: L
+
+Temperature: M
+
+Initial Line: N
+
+Initial Column: O
+
+Final Line: P
+
+Final Column: Q
+
+Horizontal binning: R
+
+Vertical binning: S

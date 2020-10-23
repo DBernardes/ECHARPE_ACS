@@ -1,0 +1,30 @@
+File of the CCD camera configuration to bias images acquisition
+---------------------------------------------------------------
+
+This file provides the camera configuration to bias images aquisition. 
+The exposure time is set to zero, Reado Mode to "Image" 
+and the shutter is permanently closed.
+ 
+Read Mode: Image
+
+Exposure Time: 0.0
+
+Shutter Mode:  Closed
+
+Shutter TTL: TTL Low
+
+Time to open shutter: 50
+
+Time to close shutter: 50
+
+Initial Line: 1
+
+Initial Column: 1
+
+Final Line: 1024
+
+Final Column: 1024
+
+Horizontal binning: 1
+
+Vertical binning: 1

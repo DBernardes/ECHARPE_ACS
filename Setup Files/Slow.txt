@@ -1,0 +1,8 @@
+File of the CCD camera configuration to fast acquisitions
+-----------------------------------------------------------
+
+This file provides the camera configuration
+to fast aquisitions.
+VShift Speed: 4.33
+
+Readout Rate: 100 KHz at 16 bit

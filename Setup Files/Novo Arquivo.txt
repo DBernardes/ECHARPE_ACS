@@ -1,0 +1,40 @@
+File of the CCD camera acquisition setup
+-----------------------------------------
+
+Acquisition Mode: Accumulate
+
+Trigger: External
+
+Read Mode: Full Vertical Binning
+
+Exposure Time: 0,000000
+
+VShift Speed: 2.2
+
+Readout Rate: 100 KHz at 16 bit
+
+Preamp: 4
+
+Shutter Mode:  Closed
+
+Shutter TTL: TTL Low
+
+Time to open shutter: 50
+
+Time to close shutter: 50
+
+Cooler: OFF
+
+Temperature: 20
+
+Initial Line: 1
+
+Initial Column: 1
+
+Final Line: 1024
+
+Final Column: 1024
+
+Horizontal binning: 1
+
+Vertical binning: 1
